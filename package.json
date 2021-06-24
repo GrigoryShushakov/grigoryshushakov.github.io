@@ -7,7 +7,11 @@
 		"start": "gulp",
 		"build": "gulp sass"
 	},
-	"keywords": ["template", "resume", "cv"],
+	"keywords": [
+		"template",
+		"resume",
+		"cv"
+	],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/VJAI/about.me.git"
